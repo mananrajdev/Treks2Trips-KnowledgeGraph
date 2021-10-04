@@ -1,0 +1,971 @@
+{
+"name": "Yosemite",
+"state": "California",
+"hotel_name": [
+"Ahwahnee Hotel",
+"Yosemite Valley Lodge",
+"Curry Village",
+"Wawona Hotel",
+"Narrow Gauge Inn",
+"Scenic Wonders Vacation Homes & Condos",
+"Tenaya Lodge & Cottages",
+"Yosemite View Lodge",
+"Rush Creek Lodge",
+" AutoCamp Yosemite",
+" Redwoods in Yosemite Vacation Home",
+" Evergreen Lodge",
+" Cedar Lodge",
+" Yosemite Riverside Inn",
+" Yosemite Westgate Lodge",
+" Sonora Inn",
+" Miners Inn",
+" Mariposa Lodge",
+" White Chief Mountain Lodge",
+" Yosemite Bug Rustic Mountain Resort",
+" Scenic Wonders Bass Lake",
+" Pines Resort at Bass Lake",
+" Yosemite Southgate Hotel & Suites",
+" Best Western Plus Yosemite Gateway Inn Oakhurst",
+" Sierra Sky Ranch",
+" Yosemite Sierra Inn",
+" Hounds Tooth Inn",
+" Comfort Inn at Oakhurst",
+" Best Western Plus Yosemite Way Station Mariposa",
+" Groveland Hotel",
+" Hotel Charlotte",
+" Chateau du Sureau"
+],
+"hotel_price": [
+341.0,
+209.0,
+90.0,
+157.0,
+89.0,
+119.0,
+165.0,
+129.0,
+265.0,
+179.0,
+182.0,
+160.0,
+79.0,
+129.0,
+89.0,
+79.0,
+90.0,
+189.0,
+79.0,
+29.0,
+125.0,
+169.0,
+85.0,
+119.99,
+119.0,
+104.45,
+272.5,
+90.0,
+120.0,
+121.0,
+139.0,
+325.0
+]
+}{
+"name": "Yellowstone",
+"state": "Wyoming",
+"hotel_name": [
+"Hibernation Station",
+"Golden Stone Inn",
+"Arrowhead Lodge",
+"Yellowstone Gateway Inn",
+"Silver Gate Lodging",
+"Yellowstone Valley Inn",
+"Three Bear Lodge",
+"Explorer Cabins",
+"Gray Wolf Inn & Suites",
+" Absaroka Lodge",
+" Yellowstone Big Rock Inn",
+" Historic Madison",
+" Brandin' Iron Inn",
+" Kelly Inn",
+" Clubhouse Inn",
+" Yellowstone Park Hotel",
+" The Ridgeline Hotel at Yellowstone",
+" Holiday Inn West Yellowstone",
+" Best Western Desert Inn",
+" Days Inn by Wyndham West Yellowstone",
+" The Pines at Island Park",
+" Rainbow Ranch Lodge",
+" Blackwater Creek Ranch",
+" Sawtelle Mountain Resort",
+" Pahaska Tepee Resort",
+" Big Bear Motel",
+" Headwaters Lodge at Flagg Ranch"
+],
+"hotel_price": [
+119.0,
+119.0,
+300.0,
+89.0,
+204.24,
+155.0,
+69.0,
+149.0,
+99.0,
+100.0,
+140.0,
+104.0,
+69.0,
+99.99,
+170.0,
+139.0,
+109.0,
+116.75,
+107.99,
+99.99,
+209.0,
+200.0,
+75.0,
+89.0,
+119.99,
+89.0,
+79.0
+]
+}{
+"name": "Grand Teton",
+"state": "Wyoming",
+"hotel_name": [
+"Jackson Lake Lodge",
+"Signal Mountain Lodge",
+"Colter Bay Village",
+"Jenny Lake Lodge",
+"Togwotee Mountain Lodge",
+"Elk Refuge Inn",
+"Snake River Park Cabins",
+"Headwaters Lodge at Flagg Ranch",
+" Anvil Hotel",
+" Rustic Inn Creekside Resort & Spa",
+" Lodge at Jackson Hole",
+" Lexington at Jackson Hole",
+" 49er Inn",
+" Antler Inn",
+" Cowboy Village Resort",
+" Elk Country Inn",
+" Snake River Lodge & Spa",
+" Teton Mountain Lodge & Spa",
+" Four Seasons Resort",
+" Snow King Resort & Condos",
+" Rendezvous Mountain Rentals"
+],
+"hotel_price": [
+356.0,
+236.55,
+83.0,
+835.0,
+209.0,
+71.0,
+58.0,
+79.0,
+132.0,
+159.0,
+119.0,
+129.99,
+189.0,
+78.0,
+154.0,
+92.0,
+139.0,
+414.0,
+365.0,
+109.0,
+129.0
+]
+}{
+"name": "Glacier",
+"state": "Montana",
+"hotel_name": [
+"Historic Tamarack Lodge & Cabins",
+"Izaak Walton Inn",
+"Gentry River Ranch",
+"North Forty Resort",
+"The Cabins at Whitefish",
+"The Cottages at Glacier",
+"Grouse Mountain Lodge",
+"Prince of Wales Hotel",
+"Apgar Village Lodge & Cabins",
+" Motel Lake McDonald",
+" St. Mary Village",
+" Glacier Park Lodge",
+" Saint Mary / East Glacier KOA",
+" Glacier Highland Motel",
+" Silverwolf Log Chalet Resort",
+" Glacier Vista Motel",
+" Moss Mountain Inn",
+" Stanton Creek Lodge",
+" Glacier Haven Inn",
+" Halfway Hotel",
+" Glacier Cabins",
+" Great Bear Inn",
+" Meadow Lake Resort",
+" Meadow Lake View Bed & Breakfast",
+" Country Inn & Suites by Radisson",
+" Pine Lodge on Whitefish River",
+" Lodge at Whitefish Lake",
+" Firebrand Hotel",
+" Best Western Rocky Mountain Lodge",
+" Baymont by Wyndham Whitefish",
+" Kandahar Lodge",
+" Whitefish Mountain Resort",
+" Holiday Inn Express & Suites Kalispell",
+" Red Lion Hotel Kalispell",
+" Hampton Inn Kalispell",
+" Hilton Garden Inn Kalispell"
+],
+"hotel_price": [
+75.0,
+109.0,
+395.0,
+119.0,
+81.0,
+290.0,
+114.0,
+249.0,
+99.0,
+159.0,
+109.0,
+149.0,
+75.0,
+144.0,
+129.0,
+135.0,
+140.0,
+119.0,
+99.0,
+99.0,
+109.0,
+118.0,
+89.0,
+219.0,
+75.68,
+116.0,
+115.0,
+119.0,
+129.0,
+89.0,
+119.0,
+99.0,
+80.0,
+75.24,
+97.0,
+86.0
+]
+}{
+"name": "Grand Canyon",
+"state": "Arizona",
+"hotel_name": [
+"Grand Canyon Plaza Hotel",
+"Yavapai Lodge",
+"Grand Canyon Lodge",
+"Best Western Premier Grand Canyon Squire Inn",
+"Holiday Inn Express Hotel & Suites Grand Canyon",
+"Kaibab Lodge"
+],
+"hotel_price": [
+99.0,
+112.0,
+158.0,
+179.0,
+113.0,
+105.0
+]
+}{
+"name": "Olympic",
+"state": "Washington",
+"hotel_name": [
+"Kalaloch Lodge",
+"A Hidden Haven Forest Cottages",
+"Lake Crescent Lodge",
+"Lake Quinault Lodge",
+"Sol Duc Hot Springs Resort",
+"Log Cabin Resort",
+"Olympic Lodge",
+"Rain Forest Resort Village",
+"Forks Motel",
+" Manresa Castle Hotel",
+" Red Lion Hotel Port Angeles",
+" Quality Inn Uptown",
+" Super 8 by Wyndham Port Angeles at Olympic National Park",
+" Dew Drop Inn",
+" Holiday Inn Express Sequim",
+" Quality Inn & Suites at Olympic National Park"
+],
+"hotel_price": [
+131.0,
+435.0,
+138.0,
+101.0,
+230.0,
+84.0,
+119.99,
+99.0,
+69.0,
+75.0,
+92.65,
+99.0,
+80.0,
+74.0,
+119.0,
+109.0
+]
+}{
+"name": "Mount Rainier",
+"state": "Washington",
+"hotel_name": [
+"Paradise Inn",
+"National Park Inn",
+"Mountain Meadows Inn",
+"Nisqually Lodge"
+],
+"hotel_price": [
+159.0,
+145.0,
+84.0,
+140.0
+]
+}{
+"name": "Sequoia/Kings Canyon",
+"state": "California",
+"hotel_name": [
+"Wuksachi Village & Lodge",
+"John Muir Lodge",
+"Grant Grove Cabins",
+"Rio Sierra Riverhouse",
+"Gateway Lodge",
+"Cedar Grove Lodge",
+"Silver City Resort",
+"Buckeye Tree Lodge & Cabins",
+"Comfort Inn & Suites Sequoia Kings Canyon",
+" Sequoia River Dance Bed & Breakfast",
+" Lazy J Ranch Motel",
+" Sierra Lodge",
+" Sequoia Motel",
+" The River Jewel Suites",
+" Holiday Inn Express & Suites Dinuba West",
+" Wyndham Visalia"
+],
+"hotel_price": [
+129.0,
+145.0,
+56.0,
+180.0,
+150.0,
+158.0,
+165.0,
+129.0,
+99.0,
+155.0,
+125.0,
+139.0,
+105.0,
+250.0,
+80.0,
+115.0
+]
+}{
+"name": "Big Bend",
+"state": "Texas",
+"hotel_name": [
+"Chisos Mountains Lodge",
+"Lajitas Resort",
+"Big Bend Resort & Adventures",
+"Gage Hotel",
+"Chisos Mining Co. Motel"
+],
+"hotel_price": [
+156.0,
+149.0,
+119.0,
+185.0,
+70.0
+]
+}{
+"name": "Great Smoky Mountains",
+"state": "Tennesse",
+"hotel_name": [
+"Brookside Resort",
+"The Appy Lodge",
+"Little Arrow Outdoor Resort",
+"Buckhorn Inn",
+"Panther Creek Cabins",
+"River Terrace Resort and Convention Center",
+"Wild Bear Inn",
+"Best Western Cades Cove Inn",
+"Baymont Inn by Wyndham Cherokee Smoky Mountains"
+],
+"hotel_price": [
+73.75,
+119.0,
+76.0,
+125.0,
+90.0,
+79.0,
+65.0,
+69.0,
+69.0
+]
+}{
+"name": "Shenandoah",
+"state": "Virginia",
+"hotel_name": [
+"Skyland",
+"Big Meadows Lodge",
+"Lewis Mountain Cabins",
+"Hotel Laurance",
+"Shenandoah River Cabins",
+"Mimslyn Inn",
+"Days Inn by Wyndham Luray Shenandoah",
+"Quality Inn - Luray",
+"Hotel Madison & Shenandoah Valley Conference Center",
+" Hampton Inn Front Royal",
+" Holiday Inn Front Royal",
+" Boar's Head Resort",
+" Hotel 24 South"
+],
+"hotel_price": [
+101.0,
+89.0,
+135.0,
+135.0,
+217.5,
+99.0,
+59.99,
+65.0,
+99.0,
+136.0,
+95.0,
+135.0,
+97.0
+]
+}{
+"name": "Crater Lake",
+"state": "Oregon",
+"hotel_name": [
+"Crater Lake Lodge",
+"Running Y Ranch Resort",
+"Diamond Lake Resort",
+"Cimarron Inn"
+],
+"hotel_price": [
+165.0,
+129.0,
+94.0,
+92.99
+]
+}{
+"name": "Denali",
+"state": "Alaska",
+"hotel_name": [
+"Kantishna Roadhouse Backcountry Resort",
+"Denali Backcountry Lodge",
+"Denali Bluffs Hotel",
+"Grande Denali Lodge",
+"Denali Crow's Nest Log Cabins",
+"Denali Cabins",
+"McKinley Creekside Cabins",
+"Earthsong Lodge",
+"Denali Princess Wilderness Lodge",
+" McKinley Chalet Resort",
+" Denali Park Village",
+" Tonglen Lake Lodge",
+" Denali Hostel & Cabins",
+" Carlo Creek Cabins",
+" Denali Tri Valley Cabins",
+" Denali Touch of Wilderness B&B Inn",
+" Aurora Denali Lodge",
+" Denali Park Hotel",
+" Mt. McKinley Princess Wilderness Lodge",
+" Comfort Inn Downtown Anchorage - Ship Creek",
+" SpringHill Suites by Marriott Anchorage Midtown",
+" Residence Inn by Marriott Anchorage Midtown",
+" Hampton Inn Anchorage",
+" Ramada by Wyndham Anchorage Downtown",
+" SpringHill Suites by Marriott Fairbanks",
+" Hampton Inn & Suites Fairbanks",
+" La Quinta Inn & Suites by Wyndham Fairbanks Airport",
+" Talkeetna Alaskan Lodge"
+],
+"hotel_price": [
+1120.0,
+1150.0,
+199.0,
+229.0,
+279.0,
+169.0,
+229.0,
+189.0,
+149.0,
+199.0,
+320.0,
+400.0,
+100.0,
+149.0,
+159.0,
+165.0,
+89.0,
+114.0,
+149.0,
+104.0,
+99.0,
+149.0,
+89.0,
+73.0,
+119.0,
+124.0,
+104.0,
+129.0
+]
+}{
+"name": "Kenai Fjords",
+"state": "Alaska",
+"hotel_name": [
+"Kenai Fjords Glacier Lodge",
+"Kenai Fjords Wilderness Lodge",
+"Harbor 360 Hotel",
+"Exit Glacier Lodge",
+"Seward Windsong Lodge",
+"Bear Lake Lodgings B&B",
+"Gateway Hotel",
+"Best Western Plus Edgewater Hotel"
+],
+"hotel_price": [
+1830.0,
+1390.0,
+104.0,
+135.0,
+179.0,
+189.0,
+189.0,
+119.99
+]
+}{
+"name": "Zion",
+"state": "Utah",
+"hotel_name": [
+"Zion Mountain Ranch",
+"Flanigan's Inn",
+"Driftwood Lodge",
+"Holiday Inn Express Springdale",
+"Cliffrose Springdale, Curio Collection by Hilton",
+"Novel House",
+"Zion Ponderosa Ranch Resort",
+"Parry Lodge"
+],
+"hotel_price": [
+229.0,
+99.0,
+89.0,
+89.0,
+179.0,
+199.0,
+129.0,
+99.0
+]
+}{
+"name": "Bryce Canyon",
+"state": "Utah",
+"hotel_name": [
+"Bryce Canyon Lodge",
+"Bryce Trails B&B",
+"Best Western Plus Bryce Canyon Grand Hotel",
+"Best Western Plus Ruby's Inn",
+"Bryce Pioneer Village",
+"Bryce View Lodge",
+"Bryce Canyon Pines",
+"Bryce Canyon Inn",
+"Stone Canyon Inn",
+" Red Ledges Inn (Formerly Americas Best Value Inn Bryce Canyon)",
+" Bryce Canyon Villas"
+],
+"hotel_price": [
+135.0,
+119.0,
+94.95,
+79.95,
+85.0,
+79.95,
+65.0,
+89.0,
+95.0,
+74.0,
+75.0
+]
+}{
+"name": "Arches/Canyonlands",
+"state": "Utah",
+"hotel_name": [
+"Moab Springs Ranch",
+"Red Cliffs Lodge",
+"Sorrel River Ranch Resort and Spa",
+"Aarchway Inn",
+"Gonzo Inn",
+"Best Western Plus Canyonlands Inn",
+"Best Western Plus Greenwell Inn",
+"Bowen Motel",
+"Big Horn Lodge"
+],
+"hotel_price": [
+119.0,
+120.0,
+1129.0,
+60.0,
+286.0,
+109.0,
+89.0,
+84.18,
+69.95
+]
+}{
+"name": "Capitol Reef",
+"state": "Utah",
+"hotel_name": [
+"Capitol Reef Resort"
+],
+"hotel_price": [
+89.0
+]
+}{
+"name": "Grand Staircase/Escalante",
+"state": "Utah",
+"hotel_name": [
+"Boulder Mountain Lodge",
+"Entrada Escalante Lodge",
+"Escalante Yurts",
+"Canyons Bed & Breakfast"
+],
+"hotel_price": [
+120.0,
+69.0,
+165.0,
+120.0
+]
+}{
+"name": "Monument Valley",
+"state": "Utah",
+"hotel_name": [
+"Desert Rose Resort & Cabins",
+"Gouldings Lodge",
+"The View Hotel",
+"San Juan Inn",
+"Wetherill Inn",
+"Kayenta Monument Valley Inn"
+],
+"hotel_price": [
+119.0,
+87.0,
+109.0,
+98.0,
+96.0,
+129.0
+]
+}{
+"name": "Mesa Verde",
+"state": "Colorado",
+"hotel_name": [
+"Willowtail Springs",
+"Far View Lodge"
+],
+"hotel_price": [
+239.0,
+110.0
+]
+}{
+"name": "Canyon de Chelly",
+"state": "Arizona",
+"hotel_name": [
+"Thunderbird Lodge",
+"Best Western Canyon De Chelly Inn"
+],
+"hotel_price": [
+59.99,
+89.99
+]
+}{
+"name": "Lake Powell",
+"state": "Utah",
+"hotel_name": [
+"Lake Powell Resort",
+"Defiance House Lodge",
+"Marriott Courtyard Page"
+],
+"hotel_price": [
+99.0,
+89.0,
+119.0
+]
+}{
+"name": "Death Valley",
+"state": "Nevada",
+"hotel_name": [
+"Stovepipe Wells",
+"Longstreet Inn & Casino",
+"Atomic Inn"
+],
+"hotel_price": [
+144.0,
+95.0,
+60.0
+]
+}{
+"name": "Waterton Lakes",
+"state": "Alberta",
+"hotel_name": [
+"Prince of Wales",
+"Northland Lodge",
+"Waterton Glacier Suites",
+"Crandell Mountain Lodge",
+"Bayshore Inn Resort & Spa",
+"Waterton Lakes Lodge Resort",
+"Aspen Village Inn"
+],
+"hotel_price": [
+249.0,
+149.0,
+129.0,
+99.0,
+159.0,
+94.0,
+119.0
+]
+}{
+"name": "Banff & Lake Louise",
+"state": "Alberta",
+"hotel_name": [
+"Fairmont Banff Springs Hotel",
+"Fairmont Chateau Lake Louise",
+"Moose Hotel & Suites",
+"Deer Lodge",
+"Moraine Lake Lodge",
+"Buffalo Mountain Lodge",
+"Banff Caribou Lodge & Spa",
+"Mountaineer Lodge",
+"Banff Park Lodge",
+" Banff Rocky Mountain Resort",
+" Hidden Ridge Resort",
+" Banff Ptarmigan Inn",
+" Tunnel Mountain Resort",
+" Fox Hotel & Suites",
+" Dorothy Motel (Formerly Bumpers Inn)",
+" High Country Inn",
+" Rimrock Resort",
+" Lake Louise Inn",
+" Post Hotel & Spa",
+" Douglas Fir Resort & Chalets",
+" Mount Royal Hotel"
+],
+"hotel_price": [
+399.0,
+359.0,
+199.0,
+119.0,
+588.0,
+119.0,
+134.0,
+161.0,
+129.0,
+119.0,
+149.0,
+144.0,
+129.0,
+149.0,
+129.0,
+104.0,
+198.0,
+103.0,
+672.1,
+155.0,
+109.0
+]
+}{
+"name": "Jasper",
+"state": "Alberta",
+"hotel_name": [
+"Fairmont Jasper Park Lodge",
+"Glacier View Lodge",
+"Mount Robson Inn",
+"Jasper Inn & Suites",
+"Athabasca Hotel",
+"Pocahontas Cabins"
+],
+"hotel_price": [
+259.0,
+384.0,
+124.0,
+101.0,
+99.0,
+99.0
+]
+}{
+"name": "Yoho",
+"state": "British Columbia",
+"hotel_name": [
+"Emerald Lake Lodge"
+],
+"hotel_price": [
+119.0
+]
+}{
+"name": "Kootenay",
+"state": "British Columbia",
+"hotel_name": [
+"Kootenay Park Lodge",
+"Prestige Radium Hot Springs Resort, BW Premier Collection"
+],
+"hotel_price": [
+219.0,
+129.99
+]
+}{
+"name": "Mount Rushmore",
+"state": "South Dakota",
+"hotel_name": [
+"Baymont by Wyndham Keystone Near Mt. Rushmore",
+"Ramada By Wyndham Keystone Near Mt. Rushmore",
+"Mt. Rushmore Resort at Palmer Gulch",
+"Best Western Sturgis Inn",
+"Econo Lodge Black Hills"
+],
+"hotel_price": [
+53.1,
+99.0,
+94.0,
+70.0,
+39.0
+]
+}{
+"name": "Acadia",
+"state": "Maine",
+"hotel_name": [
+"Atlantic Oceanside",
+"Harbour Cottage Inn",
+"Bar Harbor Inn & Spa",
+"The Bluenose Inn",
+"Days Inn by Wyndham Bar Harbor",
+"Acadia Inn",
+"Bar Harbor Grand Hotel"
+],
+"hotel_price": [
+109.0,
+239.0,
+119.0,
+154.0,
+159.0,
+119.0,
+129.0
+]
+}{
+"name": "Rocky Mountain",
+"state": "Colorado",
+"hotel_name": [
+"Aspen Winds on Fall River",
+"River Stone Resorts and Bear Paw Suites",
+"Gateway Inn",
+"The Ridgeline Hotel, Estes Park, Ascend Hotel Collection",
+"Romantic River Song"
+],
+"hotel_price": [
+129.0,
+169.0,
+125.0,
+129.0,
+145.0
+]
+}{
+"name": "Redwood",
+"state": "California",
+"hotel_name": [
+"Redwood Coast Vacation Rentals",
+"Woodland Villa Cabins",
+"Elk Meadow Cabins",
+"Redwood Hotel Holiday Inn Express"
+],
+"hotel_price": [
+84.7,
+95.0,
+274.0,
+109.99
+]
+}{
+"name": "Badlands",
+"state": "South Dakota",
+"hotel_name": [
+"Cedar Pass Lodge",
+"Badlands Inn",
+"Best Western Plains Motel"
+],
+"hotel_price": [
+179.0,
+130.0,
+95.99
+]
+}{
+"name": "Joshua Tree",
+"state": "California",
+"hotel_name": [
+"Miracle Springs Resort & Spa",
+"Desert Lily Bed & Breakfast"
+],
+"hotel_price": [
+89.0,
+175.0
+]
+}{
+"name": "North Cascades",
+"state": "Washington",
+"hotel_name": [
+"North Cascades Lodge at Stehekin"
+],
+"hotel_price": [
+154.0
+]
+}{
+"name": "Isle Royale",
+"state": "Michigan",
+"hotel_name": [
+"Rock Harbor Lodge"
+],
+"hotel_price": [
+227.0
+]
+}{
+"name": "Lake Tahoe",
+"state": "California",
+"hotel_name": [
+"Zephyr Cove Resort"
+],
+"hotel_price": [
+113.0
+]
+}{
+"name": "Lake Havasu",
+"state": "Arizona",
+"hotel_name": [
+"London Bridge Resort",
+"Nautical Inn Beachfront Resort",
+"Heat Hotel"
+],
+"hotel_price": [
+149.0,
+129.0,
+127.1
+]
+}{
+"name": "Shasta Lake",
+"state": "California",
+"hotel_name": [
+"Best Western Plus Hilltop Inn",
+"La Quinta Inn & Suites"
+],
+"hotel_price": [
+119.99,
+85.0
+]
+}
