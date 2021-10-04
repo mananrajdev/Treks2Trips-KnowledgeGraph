@@ -1,0 +1,33 @@
+ONTOLOGY -
+
+Trail
+- rating
+- difficulty
+- distance
+- elevation
+- route_type
+- dog_status
+- kid_status
+- bike_status
+- attributes
+- duration
+
+
+National Park
+- Scenic Drive
+- Best Time to Go 
+- Admission Fee
+- Must-Have Experience
+- inception
+- highest_peak
+
+
+Species
+- Category
+
+
+State
+
+
+Hotel
+- Price
